@@ -103,8 +103,8 @@ let producto2 = {
   stock: 20,
 };
 let producto3 = {
-  title: "Pollo",
-  description: "Ave",
+  title: "Led",
+  description: "Electricidad",
   price: 100,
   thumbnail: "Sin imagen",
   code: "C1",
